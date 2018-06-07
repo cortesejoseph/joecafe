@@ -1,1 +1,4 @@
 line1
+line2
+Added line 3 after git add for second line
+line 4
